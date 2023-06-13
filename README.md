@@ -1,0 +1,2 @@
+# Aqua
+Aqua este un platformer 2D, in care player-ul se misaca cu sagetile. Mecanica principala a jocului este faptul ca personajul principal este facut din apa, iar atunci cand jucatorul apasa pe z, personajul se transforma intr-o bila de apa.
